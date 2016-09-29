@@ -1,0 +1,4 @@
+E:/Doucments/Programming/Labs/Hello world/build/CMakeFiles/phw.dir
+E:/Doucments/Programming/Labs/Hello world/build/CMakeFiles/main.dir
+E:/Doucments/Programming/Labs/Hello world/build/CMakeFiles/ALL_BUILD.dir
+E:/Doucments/Programming/Labs/Hello world/build/CMakeFiles/ZERO_CHECK.dir
